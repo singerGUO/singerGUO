@@ -11,7 +11,7 @@
 <h3>✨ &nbsp;Highlights</h3>
 
 * Developed and implemented an data driven energy-saving algorithm for Air Handler Units in over 50 large data centers, resulting 
-in significant cost savings. For instance, Lang Fang Cloud Base saw a decrease in PUE from 1.42 to 1.25, resulting in 
+in significant cost savings. For instance, A100 datacenter clusters(UAE) saw a decrease in PUE from 1.42 to 1.25, resulting in 
 yearly savings of $3.45 million
 
 * Designed and developed a microservice for Huya Limited (Nasdaq: huya)to efficiently handle high volume and high concurrency during time restricted flash sale events on the live streaming platform during S10 in League of Legend
