@@ -38,6 +38,8 @@ yearly savings of $3.45 million
 - Proficient Languages: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+  ![Publication](https://img.shields.io/badge/Nature-A%20Non--Laboratory%20Gait%20Dataset%20of%20Full%20Body%20Kinematics%20and%20Egocentric%20Vision-brightgreen)
+
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
 <h3>👋 &nbsp;Publications</h3>
