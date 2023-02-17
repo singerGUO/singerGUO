@@ -7,33 +7,31 @@
 
 
 
-<h2> This is Aaron. Welcome to my GitHub page!</h2>
+<h2> This is Zhenghao(Hayden). Welcome to my GitHub page!</h2>
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
-I build web / mobile applications, backend services, and infrastructure for enterprises and startups.
+I build web applications, backend services, and infrastructure for enterprises and startups.
 
-Currently working at TikTok creator growth team.
+Currently a master student in UW ECE Program graduating in December 2023
 
 <h3>✨ &nbsp;Highlights</h3>
 
-* Built a web portal with Java Spring and AWS to visualize terabytes of Amazon Economics data model
-* Led an engineering team at a startup to develop frontend web apps, GraphQL servers, iOS apps, and pipelines
-* Built a full stack UI Comparison tool to avoid shipping 95% of UI bugs to Apptio customers (Fortune 100)
-* Developed “T-Mobile Tuesday” Android app which was ranked 1st in Google Play with 10+ million downloads
+* Developed and implemented an data driven energy-saving algorithm for Air Handler Units in over 50 large data centers, resulting 
+in significant cost savings. For instance, Lang Fang Cloud Base saw a decrease in PUE from 1.42 to 1.25, resulting in 
+yearly savings of $3.45 million
+
+* Designed and developed a microservice for Huya Limited (Nasdaq: huya)to efficiently handle high volume and high concurrency during time restricted flash sale events on the live streaming platform during S10 in League of Legend
+
 
 <h3>🥞 &nbsp;Tech Stack</h3>
 
 - Frontend: &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=blueviolet)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=orange)
-  ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
 - Backend: &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Java](https://img.shields.io/badge/-Java.js-333333?style=flat&logo=node.js)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=magenta)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![Spring Boot](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 - Database: &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server&logoColor=red)
