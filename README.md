@@ -1,4 +1,4 @@
-<h2> 👋This is Zhenghao(Hayden). Welcome to my GitHub page!</h2>
+<h2> This is Zhenghao(Hayden). Welcome to my GitHub page!</h2>
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
@@ -40,8 +40,8 @@ yearly savings of $3.45 million
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
-
-
+<h3>👋 &nbsp;Publications</h3>
+**Nature|** A Non-Laboratory Gait Dataset of Full Body Kinematics and Egocentric Vision :https://www.nature.com/articles/s41597-023-01932-7
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
