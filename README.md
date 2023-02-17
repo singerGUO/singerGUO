@@ -36,7 +36,7 @@ yearly savings of $3.45 million
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github)
 - Proficient Languages: &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-#3776AB?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=C++)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
@@ -49,6 +49,6 @@ yearly savings of $3.45 million
 <p align="center">
 
 <a href="[https://www.linkedin.com/in/zhenghaoguo/](https://www.linkedin.com/in/zhenghao-guo-27655b15a/)](https://www.linkedin.com/in/zhenghao-guo-27655b15a/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/zhenghaoguo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=zhenghaoguo22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronlam.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=zhenghaoguo22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhenghaoguo22@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
