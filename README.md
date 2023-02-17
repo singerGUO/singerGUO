@@ -29,16 +29,14 @@ yearly savings of $3.45 million
 - Frontend: &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - Backend: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java.js-333333?style=flat&logo=node.js)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=magenta)
-  ![Spring Boot](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![Java](https://img.shields.io/badge/-Java.js-333333?style=flat)
+  ![python](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=python&logoColor=magenta)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 - Database: &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server&logoColor=red)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - Mobile: &nbsp;
-  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-  ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 - Infrastructure: &nbsp;
   ![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon)
@@ -46,11 +44,11 @@ yearly savings of $3.45 million
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github)
 - Proficient Languages: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-#3776AB?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![C++](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=C++)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
 
-<a href="https://github.com/aaron-lam">
+<a href="https://github.com/singerGUO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaron-lam&theme=solarized-dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-lam&theme=solarized-dark&layout=compact&hide=html" />
 </a>
@@ -60,7 +58,7 @@ yearly savings of $3.45 million
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://aaronlam.us/"><img alt="Blog" src="https://img.shields.io/badge/Blog-aaronlam.us-darkgreen?style=flat-square&logo=google-chrome&logoColor=darkgreen"></a>
+
 <a href="https://www.linkedin.com/in/aaronlam1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/aaronlam1-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=aaronlam.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronlam.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
