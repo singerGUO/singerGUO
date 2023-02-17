@@ -37,7 +37,7 @@ yearly savings of $3.45 million
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github)
 - Proficient Languages: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=C++)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
 
