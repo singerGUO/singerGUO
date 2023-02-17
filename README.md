@@ -22,7 +22,7 @@ yearly savings of $3.45 million
 - Frontend: &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - Backend: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java.js-333333?style=flat)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat)
   ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=magenta)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 - Database: &nbsp;
