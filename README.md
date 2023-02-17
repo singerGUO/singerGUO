@@ -42,11 +42,10 @@ yearly savings of $3.45 million
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 - Infrastructure: &nbsp;
   ![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon)
-  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=google&logoColor=red)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github)
 - Proficient Languages: &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-#3776AB?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
