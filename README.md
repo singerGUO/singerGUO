@@ -41,10 +41,6 @@ yearly savings of $3.45 million
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
 
-<a href="https://github.com/singerGUO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaron-lam&theme=solarized-dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-lam&theme=solarized-dark&layout=compact&hide=html" />
-</a>
 
 <br/>
 
@@ -52,7 +48,7 @@ yearly savings of $3.45 million
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/in/zhenghaoguo/](https://www.linkedin.com/in/zhenghao-guo-27655b15a/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/aaronlam1-blue?style=flat-square&logo=linkedin"></a>
+<a href="[https://www.linkedin.com/in/zhenghaoguo/](https://www.linkedin.com/in/zhenghao-guo-27655b15a/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/zhenghaoguo-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=zhenghaoguo22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronlam.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
