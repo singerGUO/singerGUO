@@ -41,7 +41,9 @@ yearly savings of $3.45 million
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
 <h3>👋 &nbsp;Publications</h3>
-**Nature|** A Non-Laboratory Gait Dataset of Full Body Kinematics and Egocentric Vision :https://www.nature.com/articles/s41597-023-01932-7
+  ![Publication](A Non-Laboratory Gait Dataset of Full Body Kinematics and Egocentric Vision :https://www.nature.com/articles/s41597-023-01932-7)
+
+https://img.shields.io/badge/Nature-A%20Non--Laboratory%20Gait%20Dataset%20of%20Full%20Body%20Kinematics%20and%20Egocentric%20Vision-brightgreen
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
