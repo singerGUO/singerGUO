@@ -14,7 +14,7 @@
 in significant cost savings. For instance, A100 datacenter clusters(UAE) saw a decrease in PUE from 1.42 to 1.25, resulting in 
 yearly savings of $3.45 million
 
-* Designed and developed a microservice for Huya Limited (Nasdaq: huya)to efficiently handle high volume and high concurrency during time restricted flash sale events on the live streaming platform during S10 in League of Legend
+* Designed and developed a microservice for Huya Limited (Nasdaq: huya)to efficiently handle high volume and high concurrency during time restricted flash sale events on the live streaming platform during S10 of League of Legend
 
 
 <h3>🥞 &nbsp;Tech Stack</h3>
