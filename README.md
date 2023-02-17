@@ -1,19 +1,10 @@
-### Hi there 👋
-- ✨ I am currently a master student in UW graduating in December 2023
-- 🔭 I was a software Engineering in Huawei AI Productization Team and intern in Huya Limite(NASDAQ: huya)
-- 🌱 I’m currently learning Cloud Computing and Computer Network
-- 📫 How to reach me: zhenghaoguo22@gmail.com
-- 😄 Pronouns: He/Him/His
-
-
-
-<h2> This is Zhenghao(Hayden). Welcome to my GitHub page!</h2>
+<h2> 👋This is Zhenghao(Hayden). Welcome to my GitHub page!</h2>
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
-I build web applications, backend services, and infrastructure for enterprises and startups.
-
-Currently a master student in UW ECE Program graduating in December 2023
+🌱 I build web applications, backend services, and infrastructure for enterprises and startups.
+🔭 I was a software Engineering in Huawei AI Productization Team and an intern in Huya Limite(NASDAQ: huya) 
+😄 Currently a master student in UW graduating in December 2023
 
 <h3>✨ &nbsp;Highlights</h3>
 
@@ -59,7 +50,7 @@ yearly savings of $3.45 million
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aaronlam1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/aaronlam1-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=aaronlam.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronlam.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="[https://www.linkedin.com/in/zhenghaoguo/](https://www.linkedin.com/in/zhenghao-guo-27655b15a/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/aaronlam1-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=zhenghaoguo22@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronlam.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
