@@ -4,7 +4,7 @@
 
 -🌱 I build web applications, backend services, and infrastructure for enterprises and startups.
 
--🔭 I was a software Engineering in Huawei AI Productization Team and an intern in Huya Limite(NASDAQ: huya) 
+-🔭 I was a software Engineering in Huawei AI Productization Team and an intern in Huya Live(NASDAQ: huya) 
 
 -😄 Currently a master student in UW graduating in December 2023
 
